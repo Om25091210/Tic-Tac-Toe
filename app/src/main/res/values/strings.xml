@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="image">image</string>
+    <string name="enter_any_room_id">Enter any room ID</string>
+    <string name="enter">Enter</string>
+    <string name="choose_your_play_mode">Choose to play with a Friend</string>
+    <string name="create_room">Create room</string>
+    <string name="offline">Play offline</string>
+    <string name="share_this_roomid_to_play_with_friend">Share this Room Id to play with friend</string>
+    <string name="share_link_via">Share link via</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="pick_your_side">Pick your side</string>
+    <string name="_continue">Continue</string>
+    <string name="dash">-</string>
+    <string name="ganador">You Won</string>
+    <string name="tap_to_play_again">Tap to play again</string>
+    <string name="you">You</string>
+    <string name="zero">0</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="invite_friends">Invite friends</string>
+    <string name="_x_off">player X</string>
+    <string name="_o_off">player O</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="to_continue_you_must_agree_to_privacy_policy">To continue, you must agree to <u>privacy policy</u>.</string>
+    <string name="i_agree">I Agree</string>
+</resources>

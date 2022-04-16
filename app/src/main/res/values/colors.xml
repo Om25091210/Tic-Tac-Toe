@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="circle">#79CADC</color>
+    <color name="privacy">#095f8b</color>
+    <color name="weblink">#09A4DB</color>
+    <color name="green_A400">#00E676</color>
+    <color name="bg_turn">#F7F6F0</color>
+    <color name="cross">#3A98D4</color>
+    <color name="draw">#91A2AB</color>
+    <color name="_switch">#9dc7cc</color>
+    <color name="swit">#BDF67B</color>
+    <color name="grey_s">#FFFFFF</color>
+    <color name="event_card_bg">#678cb4</color>
+    <color name="winner">#F27F0C</color>
+    <color name="play_again">#FF4359</color>
+    <color name="light_two">#C1E4FC</color>
+    <color name="blue">#FF2371FA</color>
+    <color name="noti">#245D6B</color>
+</resources>
